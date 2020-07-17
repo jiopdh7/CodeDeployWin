@@ -1,6 +1,5 @@
 version: 0.0
 os: windows
 files:
-  - source: 
-    destination: c:\CodeDeployWin
-
+  - source: /index.html
+    destination: C:/inetpub/wwwroot
